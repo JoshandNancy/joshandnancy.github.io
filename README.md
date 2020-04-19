@@ -1,17 +1,17 @@
-## Welcome to Josh & Nancy Co.
+# Welcome to Josh & Nancy Co.
 
 Hello, visitors! Please enjoy your time with Josh & Nancy! :)
 
-### 3D LUT App with React
+## 3D LUT App with React
 
 Upload your photos and LUT files to apply LUT easily!
 
-[3D LUT App](https://joshandnancy.github.io/3d-lut-react/)
+**Try now : [3D LUT App](https://joshandnancy.github.io/3d-lut-react/)**
 
 - Provides pre-uploaded sample photos
 - Provides LUT files
 
-** LUTs **
+**LUTs**
 ```markdown
 1. ALICE
 2. BABYBLUE
