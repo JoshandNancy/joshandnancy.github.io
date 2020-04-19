@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Josh & Nancy Co.
 
-You can use the [editor on GitHub](https://github.com/JoshandNancy/joshandnancy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, visitors! Please enjoy your time with Josh & Nancy! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 3D LUT App with React
 
-### Markdown
+Upload your photos and LUT files to apply LUT easily!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[3D LUT App](https://joshandnancy.github.io/3d-lut-react/)
 
+- Provides pre-uploaded sample photos
+- Provides LUT files
+
+** LUTs **
 ```markdown
-Syntax highlighted code block
+1. ALICE
+2. BABYBLUE
+3. BREAD
+4. BREEZE
+5. BRIGHT STANDARD
+6. DARLING
+7. DUSKY
+8. FINE DINING
+9. FOREST
+10. ISLAND
+11. JOYFUL
+12. MELLOW
+13. METRO
+14. MILKY WAY
+15. NEON
+16. OBSESSION
+17. PATAGONIA
+18. SECRET
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For this page, we use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+All rights reserved (c) 2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshandNancy/joshandnancy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
